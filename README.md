@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Reasons Why I Want to Cry
 
 You can use the [editor on GitHub](https://github.com/apurvaR3/i-m-gonna-cry/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Reasons Why I Want to Cry, where we'll be discussing the meaning of life and how it doesn't apply to me.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
