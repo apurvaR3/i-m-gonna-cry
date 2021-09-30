@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--color-fg-default);
+    background-color: var(--color-canvas-default);
+    background-image: linear-gradient(
+120deg, #e3f2fd, #ffebee);
+}
