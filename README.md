@@ -37,3 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Have this link to a [cookie baking website](https://www.mybakingaddiction.com/cookies/), because cookies spark joy and you deserve to be happy.
 
+As an added bonus, here's a picture of Hugh Dancy, because his face gives me reasonably priced serotonin.
