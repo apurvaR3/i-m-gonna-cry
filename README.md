@@ -25,4 +25,4 @@ Welcome to Reasons Why I Want to Cry, where we'll be discussing the meaning of l
 
 Have this link to a [cookie baking website](https://www.mybakingaddiction.com/cookies/), because cookies spark joy and you deserve to be happy.
 
-As an added bonus, here are some [pictures of dogs](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=640:*) because puppies gives me reasonably priced serotonin.
+As an added bonus, here's a picture of a [beagle](https://user-images.githubusercontent.com/91563616/135583330-2db83987-1557-4949-b00c-47d03c3da6cd.jpg) and a [golden retriver](https://user-images.githubusercontent.com/91563616/135583333-893c57e9-d054-4291-8ab1-e7b3c21aa6b1.jpg) because puppies gives me reasonably priced serotonin.
