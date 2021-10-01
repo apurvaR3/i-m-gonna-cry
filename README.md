@@ -5,36 +5,24 @@ Welcome to Reasons Why I Want to Cry, where we'll be discussing the meaning of l
 
 
 
-### My 13th Reason
+### 13 Reasons Why I Currently Want to Engage in Hysterics:
 
+1. I failed my last Physics test.
+2. I failed my last Math Analysis test.
+3. I was called up to the couselor's office to discuss said Physics test.
+4. I can't seem to stop falling asleep in AP US History.
+6. When I was at the previously mentioned couselor's office, my APUSH teacher recognized me. I suspect this to be because of the fact that I slept through around thirty minutes of his class earlier today, which no doubt made me quite conspicuous. It greatly concerns me that he recogized me so readily.
+7. I have a trigonometry quiz tomorrow.
+8. I have a Japanese quiz tomorrow.
+9. I have a Physics test tomorrow.
+10. My APUSH Unit 1-3 test is tomorrow.
+11. The time is currently 11:15 PM on Thursday, September 30th, and as I haven't slept in around 32 hours, I feel significantly more dead inside than usual.
+12. I'd like to stop working right now, but I have more homework to do since my teachers like piling up homework and tests on Fridays.
+13. I really want to take a nap.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apurvaR3/i-m-gonna-cry/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Things that Spark Joy
 
 Have this link to a [cookie baking website](https://www.mybakingaddiction.com/cookies/), because cookies spark joy and you deserve to be happy.
 
-As an added bonus, here's a picture of Hugh Dancy, because his face gives me reasonably priced serotonin.
+As an added bonus, here are some [pictures of dogs](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=640:*) because puppies gives me reasonably priced serotonin.
