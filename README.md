@@ -11,6 +11,7 @@ Welcome to Reasons Why I Want to Cry, where we'll be discussing the meaning of l
 2. I failed my last Math Analysis test.
 3. I was called up to the couselor's office to discuss said Physics test.
 4. I can't seem to stop falling asleep in AP US History.
+5. I can't blame anyone for the fact that I fall asleep so often when the sole reason for it is because of my sleep schedule—or lack thereof.
 6. When I was at the previously mentioned couselor's office, my APUSH teacher recognized me. I suspect this to be because of the fact that I slept through around thirty minutes of his class earlier today, which no doubt made me quite conspicuous. It greatly concerns me that he recogized me so readily.
 7. I have a trigonometry quiz tomorrow.
 8. I have a Japanese quiz tomorrow.
