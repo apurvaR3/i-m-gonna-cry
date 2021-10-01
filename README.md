@@ -1,7 +1,7 @@
 
 ## Welcome to Reasons Why I Want to Cry
 
-Welcome to Reasons Why I Want to Cry, where we'll be discussing the meaning of life and how it doesn't apply to me.
+Welcome to Reasons Why I Want to Cry, where we'll be discussing why my immediate future is currently headed for a downward spiral.
 
 
 
